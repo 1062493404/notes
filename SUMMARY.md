@@ -7,5 +7,5 @@
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
 * [zhouji](zhouji.md)
 * [2](2.md)
-* 3
+* [3](3.md)
 
